@@ -1,0 +1,9 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/test.js",
+  "scripts": {
+    "start": "node --import './run-test.js' src/test.js"
+  }
+}
